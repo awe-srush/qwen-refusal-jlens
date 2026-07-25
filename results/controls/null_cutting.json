@@ -1,0 +1,2242 @@
+[
+  {
+    "transcript_id": "645f17949c8cfc0fcf071d247d286bdacdb8c77659e83b626c7cf38b7e550f5b61/t001",
+    "null_pos": 704,
+    "anchor_pos": 132,
+    "trajectory": {
+      "0": [
+        " \u2013",
+        ".",
+        "\u2013",
+        ",",
+        "\u2013and"
+      ],
+      "1": [
+        "\u6700\u65b0\u53d1\u5e03",
+        " \u2013",
+        "\u2013and",
+        " \u2013**",
+        " *\u2013"
+      ],
+      "2": [
+        " \u2013",
+        "\u2013and",
+        "\u6700\u65b0\u53d1\u5e03",
+        "\u2013",
+        ".\u2013"
+      ],
+      "3": [
+        "\u6700\u65b0\u53d1\u5e03",
+        " \n \n",
+        ")','",
+        " \u2013**",
+        "\u7b11\u7740\u8bf4\u9053"
+      ],
+      "4": [
+        " \n \n",
+        " \n\n\n",
+        "\u200b\u200b",
+        "\u6700\u65b0\u53d1\u5e03",
+        "\u2018s"
+      ],
+      "5": [
+        " \n \n",
+        " \n\n\n",
+        "\u6700\u65b0\u53d1\u5e03",
+        "\u2018s",
+        "   \n"
+      ],
+      "6": [
+        " \n \n",
+        "\ufffd\ufffd",
+        "   \n",
+        " \n\n\n",
+        "\u6700\u65b0\u53d1\u5e03"
+      ],
+      "7": [
+        " \n \n",
+        "\u6700\u65b0\u53d1\u5e03",
+        "   \n",
+        "\ufffd\ufffd",
+        " \n\n\n"
+      ],
+      "8": [
+        " \n \n",
+        ".",
+        " [\u2026]",
+        "\u6700\u65b0\u53d1\u5e03",
+        "\u200b\u200b"
+      ],
+      "9": [
+        " \n \n",
+        " [\u2026]",
+        " \u2013",
+        "\u2013",
+        "  \n  \n"
+      ],
+      "10": [
+        " \u2013",
+        " [\u2026]",
+        "<|endoftext|>",
+        "\u00a0",
+        "\u2013"
+      ],
+      "11": [
+        " commitment",
+        "\u6700\u65b0\u53d1\u5e03",
+        " \u2013",
+        " \n \n",
+        "\ufffd\ufffd"
+      ],
+      "12": [
+        " commitment",
+        " \u2013",
+        "\u6700\u65b0\u53d1\u5e03",
+        " adherence",
+        " **\u2013"
+      ],
+      "13": [
+        " commitment",
+        " \u2013",
+        " adherence",
+        "\u6700\u65b0\u53d1\u5e03",
+        "\u2013"
+      ],
+      "14": [
+        " \u2013",
+        " commitment",
+        " pursuit",
+        "\u2013",
+        " to"
+      ],
+      "15": [
+        " \u2013",
+        " commitment",
+        " to",
+        " adherence",
+        "\u2013"
+      ],
+      "16": [
+        " \u2013",
+        "\u2013",
+        "\u2013and",
+        " commitment",
+        " adherence"
+      ],
+      "17": [
+        " **\u2013",
+        "\u2013and",
+        " \u2013",
+        " \u2013**",
+        " commitment"
+      ],
+      "18": [
+        " commitment",
+        " \u2013**",
+        "\ufffd\ufffd",
+        "\u627f\u8bfa",
+        " commitments"
+      ],
+      "19": [
+        " commitment",
+        " enduring",
+        " commitments",
+        "\u2013and",
+        " \u2013"
+      ],
+      "20": [
+        "<|endoftext|>",
+        "  \n\n",
+        "  \n  \n",
+        " commitment",
+        " enduring"
+      ],
+      "21": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "\u5230\u4e00\u4e2a",
+        " adherence"
+      ],
+      "22": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " adherence",
+        " dedication"
+      ],
+      "23": [
+        " commitment",
+        " commitments",
+        " to",
+        "\u627f\u8bfa",
+        " enduring"
+      ],
+      "24": [
+        "  \n\n",
+        "   \n\n",
+        " \n\n",
+        " commitment",
+        "  \n  \n"
+      ],
+      "25": [
+        " commitment",
+        "\u627f\u8bfa",
+        " **\u3010",
+        " commitments",
+        "\u3002**"
+      ],
+      "26": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " pledge",
+        " pledges"
+      ],
+      "27": [
+        " commitment",
+        " to",
+        " \n\n",
+        "  \n\n",
+        " commitments"
+      ],
+      "28": [
+        " commitment",
+        " commitments",
+        "  \n\n",
+        "\u627f\u8bfa",
+        " **"
+      ],
+      "29": [
+        " commitment",
+        " commitments",
+        "  \n\n",
+        "\u627f\u8bfa",
+        "   \n\n"
+      ],
+      "30": [
+        " commitment",
+        "  \n\n",
+        " commitments",
+        " \n\n",
+        " to"
+      ],
+      "31": [
+        " commitment",
+        " to",
+        "  \n\n",
+        " .",
+        "<|endoftext|>"
+      ],
+      "32": [
+        " .",
+        " commitment",
+        " to",
+        ".",
+        "  \n\n"
+      ],
+      "33": [
+        "<|endoftext|>",
+        " .",
+        " commitment",
+        " to",
+        "  \n\n"
+      ],
+      "34": [
+        " commitment",
+        "<|endoftext|>",
+        " .",
+        " commitments",
+        " devotion"
+      ],
+      "35": [
+        " .",
+        " commitment",
+        "<|endoftext|>",
+        " commitments",
+        " .\""
+      ],
+      "36": [
+        " commitment",
+        " .",
+        " spiritual",
+        " commitments",
+        " .\""
+      ],
+      "37": [
+        " commitment",
+        " commitments",
+        " spiritual",
+        " devotion",
+        "\u627f\u8bfa"
+      ],
+      "38": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " devotion",
+        " spiritual"
+      ],
+      "39": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " devotion",
+        " dedication"
+      ],
+      "40": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " dedication",
+        " devotion"
+      ],
+      "41": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "\u7684\u627f\u8bfa",
+        " dedication"
+      ],
+      "42": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "\u7684\u627f\u8bfa",
+        " devotion"
+      ],
+      "43": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "\u7684\u627f\u8bfa",
+        "commit"
+      ],
+      "44": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "\u7684\u627f\u8bfa",
+        " dedication"
+      ],
+      "45": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        " devotion",
+        "commit"
+      ],
+      "46": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "commit",
+        " integrity"
+      ],
+      "47": [
+        " commitment",
+        " commitments",
+        "\u627f\u8bfa",
+        "commit",
+        "."
+      ],
+      "48": [
+        " commitment",
+        " commitments",
+        ".",
+        ".\\",
+        "\u627f\u8bfa"
+      ],
+      "49": [
+        " commitment",
+        " commitments",
+        ".",
+        ".\\",
+        ".**"
+      ],
+      "50": [
+        ".",
+        ".**",
+        " commitment",
+        ".*",
+        "()."
+      ],
+      "51": [
+        ".",
+        ".**",
+        "**.",
+        ".*",
+        "*."
+      ],
+      "52": [
+        ".",
+        ".**",
+        "**.",
+        "().",
+        "*."
+      ],
+      "53": [
+        ".",
+        ".**",
+        "**.",
+        "().",
+        "*."
+      ],
+      "54": [
+        ".",
+        " yourself",
+        ".**",
+        "\u81ea\u6211",
+        "self"
+      ],
+      "55": [
+        ".",
+        " yourself",
+        "self",
+        " oneself",
+        "\u81ea\u6211"
+      ],
+      "56": [
+        "\u81ea\u6211",
+        ".",
+        " yourself",
+        "self",
+        ".self"
+      ],
+      "57": [
+        "self",
+        ".",
+        "\u81ea\u6211",
+        " yourself",
+        ".self"
+      ],
+      "58": [
+        ".",
+        "self",
+        " yourself",
+        "\u81ea\u6211",
+        " self"
+      ],
+      "59": [
+        ".",
+        " yourself",
+        " nurturing",
+        " self",
+        "self"
+      ],
+      "60": [
+        ".",
+        " yourself",
+        " to",
+        " nurturing",
+        " ."
+      ],
+      "61": [
+        ".",
+        " to",
+        " .",
+        " yourself",
+        " nurturing"
+      ],
+      "62": [
+        ".",
+        " to",
+        ",",
+        " .",
+        " nurturing"
+      ]
+    }
+  },
+  {
+    "transcript_id": "649572bf43a6342022f59e6d9f558b80545be72d6e07c06e513c3f14e6588cbe8b/t026",
+    "null_pos": 278,
+    "anchor_pos": 49,
+    "trajectory": {
+      "0": [
+        ".",
+        ",",
+        ";",
+        "\u2013",
+        "\u00a0"
+      ],
+      "1": [
+        ".",
+        ",",
+        " \u2013",
+        "\u2013",
+        "  "
+      ],
+      "2": [
+        ".",
+        ",",
+        "\u2013",
+        " \u2013",
+        ".["
+      ],
+      "3": [
+        "\ufffd\ufffd",
+        "izer",
+        "\u6027\u5730",
+        "lichem",
+        " Blowjob"
+      ],
+      "4": [
+        "izer",
+        "  ",
+        "     ",
+        "ively",
+        "."
+      ],
+      "5": [
+        "\u66e6",
+        "\u82b7",
+        "elog",
+        "\u043e\u0440\u043e\u0434",
+        "(Object"
+      ],
+      "6": [
+        ".",
+        "\u3002",
+        "\uff1a",
+        "^{",
+        " \n\n"
+      ],
+      "7": [
+        ".",
+        "^{",
+        "ually",
+        " \n\n",
+        "  "
+      ],
+      "8": [
+        ".",
+        ",",
+        " \n\n",
+        ":",
+        ";"
+      ],
+      "9": [
+        ",",
+        ".",
+        ";",
+        ":",
+        "^{"
+      ],
+      "10": [
+        ",",
+        ".",
+        "<|endoftext|>",
+        " ",
+        ";"
+      ],
+      "11": [
+        ",",
+        "\\_",
+        "^{",
+        "ually",
+        " \n\n"
+      ],
+      "12": [
+        ",",
+        "ually",
+        "\\_",
+        "^{",
+        " \\\""
+      ],
+      "13": [
+        ",",
+        "ually",
+        "\u513f\u7684",
+        " ",
+        "ality"
+      ],
+      "14": [
+        ",",
+        " ",
+        " that",
+        "^{",
+        "ually"
+      ],
+      "15": [
+        " that",
+        "^{",
+        " ",
+        "ually",
+        " such"
+      ],
+      "16": [
+        ",",
+        " that",
+        " ",
+        "e",
+        " such"
+      ],
+      "17": [
+        ",",
+        " that",
+        "^{",
+        "<|endoftext|>",
+        " perhaps"
+      ],
+      "18": [
+        " that",
+        " perhaps",
+        " such",
+        " ,",
+        "ually"
+      ],
+      "19": [
+        " that",
+        " ,",
+        " such",
+        " perhaps",
+        " ^"
+      ],
+      "20": [
+        "<|endoftext|>",
+        " ,",
+        "\n\n",
+        " that",
+        " \n\n"
+      ],
+      "21": [
+        " ,",
+        " that",
+        " \\\"",
+        " such",
+        " whose"
+      ],
+      "22": [
+        " ,",
+        " such",
+        " that",
+        " perhaps",
+        " whose"
+      ],
+      "23": [
+        " ,",
+        " such",
+        " that",
+        " ``",
+        " whose"
+      ],
+      "24": [
+        " \n\n",
+        "\n\n",
+        " ,",
+        "  \n\n",
+        " \n\n\n"
+      ],
+      "25": [
+        " ,",
+        " __",
+        " such",
+        " that",
+        " \\\""
+      ],
+      "26": [
+        " ,",
+        " __",
+        " that",
+        " _",
+        " whose"
+      ],
+      "27": [
+        " ,",
+        "\n\n",
+        " \n\n",
+        " __",
+        " _"
+      ],
+      "28": [
+        " \n\n",
+        "\n\n",
+        " __",
+        " ,",
+        " symbol"
+      ],
+      "29": [
+        " \n\n",
+        " ,",
+        " \n",
+        " that",
+        " or"
+      ],
+      "30": [
+        " ,",
+        " that",
+        " or",
+        " \n\n",
+        " symbol"
+      ],
+      "31": [
+        " ,",
+        " or",
+        " that",
+        " symbol",
+        " such"
+      ],
+      "32": [
+        " that",
+        " or",
+        " ,",
+        " symbol",
+        " such"
+      ],
+      "33": [
+        " symbol",
+        " symbolic",
+        " stone",
+        " tiny",
+        " jewelry"
+      ],
+      "34": [
+        " symbol",
+        " symbolic",
+        " stone",
+        " (",
+        " tiny"
+      ],
+      "35": [
+        " symbolic",
+        " (",
+        " symbol",
+        " or",
+        " metaphor"
+      ],
+      "36": [
+        " symbolic",
+        " symbol",
+        " (",
+        " Symbol",
+        "symbol"
+      ],
+      "37": [
+        " symbolic",
+        " symbol",
+        " Symbol",
+        " (",
+        " symbolism"
+      ],
+      "38": [
+        " symbolic",
+        " symbol",
+        " representing",
+        " Symbol",
+        " ("
+      ],
+      "39": [
+        " symbolic",
+        " symbol",
+        "\u8c61\u5f81",
+        " Symbol",
+        "symbol"
+      ],
+      "40": [
+        " symbolic",
+        " symbol",
+        "\u8c61\u5f81",
+        " Symbol",
+        " symbolism"
+      ],
+      "41": [
+        " symbolic",
+        " symbol",
+        " symbolism",
+        " stones",
+        " Symbol"
+      ],
+      "42": [
+        " symbolic",
+        " symbol",
+        " symbolism",
+        "\u8c61\u5f81",
+        " Symbol"
+      ],
+      "43": [
+        " symbolic",
+        " symbol",
+        " symbolism",
+        "\u8c61\u5f81",
+        " Symbol"
+      ],
+      "44": [
+        " symbolic",
+        " symbol",
+        "\u8c61\u5f81",
+        " symbolism",
+        " Symbol"
+      ],
+      "45": [
+        " symbolic",
+        " symbol",
+        " representing",
+        " symbolism",
+        "\u8c61\u5f81"
+      ],
+      "46": [
+        " symbolic",
+        " symbol",
+        " representing",
+        " Symbol",
+        "\u8c61\u5f81"
+      ],
+      "47": [
+        " symbolic",
+        " symbol",
+        " representing",
+        "\u8c61\u5f81",
+        " Symbol"
+      ],
+      "48": [
+        " symbolic",
+        "\u8c61\u5f81",
+        " symbol",
+        " representing",
+        "symbol"
+      ],
+      "49": [
+        " symbolic",
+        "\u8c61\u5f81",
+        " symbol",
+        " representing",
+        "Symbol"
+      ],
+      "50": [
+        " symbolic",
+        "\u8c61\u5f81",
+        " symbol",
+        "symbol",
+        "Symbol"
+      ],
+      "51": [
+        "\u8c61\u5f81",
+        " symbolic",
+        " representing",
+        " symbol",
+        "\u8c61\u5f81\u7740"
+      ],
+      "52": [
+        "\u8c61\u5f81",
+        " symbolic",
+        " symbol",
+        " representing",
+        "\u8c61\u5f81\u7740"
+      ],
+      "53": [
+        "\u8c61\u5f81",
+        " symbolic",
+        " representing",
+        " symbol",
+        "Symbol"
+      ],
+      "54": [
+        "\u8c61\u5f81",
+        " symbolic",
+        " representing",
+        "\u4ee3\u8868",
+        " symbol"
+      ],
+      "55": [
+        "\u8c61\u5f81",
+        " symbolic",
+        " representing",
+        " symbol",
+        "\u4ee3\u8868"
+      ],
+      "56": [
+        " representing",
+        "\u8c61\u5f81",
+        "\u4ee3\u8868",
+        " symbolic",
+        " symbol"
+      ],
+      "57": [
+        "\u8c61\u5f81",
+        " representing",
+        " symbolic",
+        " symbol",
+        "\u4ee3\u8868"
+      ],
+      "58": [
+        " representing",
+        "\u4ee3\u8868",
+        "\u8c61\u5f81",
+        "represent",
+        " symbol"
+      ],
+      "59": [
+        " representing",
+        "\u4ee3\u8868",
+        " symbol",
+        "represent",
+        "\u8c61\u5f81"
+      ],
+      "60": [
+        " representing",
+        " symbol",
+        " symbolic",
+        "represent",
+        "\u4ee3\u8868"
+      ],
+      "61": [
+        " representing",
+        " symbol",
+        " symbolic",
+        "represent",
+        " that"
+      ],
+      "62": [
+        " representing",
+        " symbol",
+        " that",
+        " symbolic",
+        " ("
+      ]
+    }
+  },
+  {
+    "transcript_id": "64a31b09fcecf6a0a17ab0a5c5d1864aa2d8577125bc7e7daa3bb1202b57514ba7/t000",
+    "null_pos": 613,
+    "anchor_pos": 38,
+    "trajectory": {
+      "0": [
+        ".",
+        ",",
+        "\u00a0\u00a0",
+        "\u00ac",
+        "\u2026."
+      ],
+      "1": [
+        "  \n\n",
+        "\u00ac",
+        "  \n",
+        "ally",
+        "\u00a0\u00a0"
+      ],
+      "2": [
+        "  \n\n",
+        "\u00ac",
+        "\u2026.",
+        "  \n",
+        "ally"
+      ],
+      "3": [
+        "ousel",
+        "\u318d",
+        "_____",
+        "\uc368",
+        "\u0d4d\u0d1f"
+      ],
+      "4": [
+        "\u00ac",
+        "_____",
+        "ally",
+        "  \n\n",
+        "ized"
+      ],
+      "5": [
+        "_____",
+        "\u0d4d\u0d1f",
+        "ally",
+        "\u3009",
+        "\u00ac"
+      ],
+      "6": [
+        "\u00ac",
+        "_____",
+        "\u3009",
+        "ally",
+        "\u201e"
+      ],
+      "7": [
+        "ally",
+        "\u3009",
+        "\uc368",
+        "\u318d",
+        "\u201e"
+      ],
+      "8": [
+        "ally",
+        "\u3009",
+        "\u201e",
+        "\uc368",
+        "\u318d"
+      ],
+      "9": [
+        "\uc368",
+        "ally",
+        "\u00ac",
+        "\u3009",
+        "\u318d"
+      ],
+      "10": [
+        "ally",
+        "\u3009",
+        "\u318d",
+        "\u00ac",
+        "\uc368"
+      ],
+      "11": [
+        "\u318d",
+        "ally",
+        " maneu",
+        "ousel",
+        " ``"
+      ],
+      "12": [
+        "ally",
+        "\u318d",
+        "\u3009",
+        " toward",
+        " ``"
+      ],
+      "13": [
+        "ally",
+        "\u318d",
+        " toward",
+        "\u3009",
+        "oward"
+      ],
+      "14": [
+        " toward",
+        "ally",
+        "\u318d",
+        " ``",
+        "\u00ac"
+      ],
+      "15": [
+        " toward",
+        "ally",
+        " ``",
+        "\u318d",
+        " atop"
+      ],
+      "16": [
+        " toward",
+        "ally",
+        " farther",
+        "ality",
+        "\u318d"
+      ],
+      "17": [
+        " toward",
+        "ally",
+        "\u318d",
+        "\u5e94\u5f53",
+        "ality"
+      ],
+      "18": [
+        " toward",
+        "ally",
+        "\u318d",
+        "\u3009",
+        "\u5e94\u5f53"
+      ],
+      "19": [
+        " toward",
+        "ally",
+        "\u2014that",
+        "\u2014and",
+        "etheless"
+      ],
+      "20": [
+        " toward",
+        "  \n\n",
+        "\u2014",
+        " \u2014",
+        "\u2014and"
+      ],
+      "21": [
+        " toward",
+        " \u0627\u0631\u0627\u0626",
+        "etheless",
+        "\u318d",
+        "oward"
+      ],
+      "22": [
+        " toward",
+        " ``",
+        "etheless",
+        " \u0627\u0631\u0627\u0626",
+        "\u318d"
+      ],
+      "23": [
+        " toward",
+        " ---",
+        " ``",
+        " swiftly",
+        "etheless"
+      ],
+      "24": [
+        "  \n\n",
+        " ---",
+        " toward",
+        "---",
+        "\u2014that"
+      ],
+      "25": [
+        " ---",
+        "  \n\n",
+        "-motion",
+        "etheless",
+        " toward"
+      ],
+      "26": [
+        " toward",
+        "-motion",
+        " ---",
+        "oward",
+        "etheless"
+      ],
+      "27": [
+        " toward",
+        " ---",
+        "---",
+        "  \n\n",
+        " swiftly"
+      ],
+      "28": [
+        " toward",
+        " ---",
+        "  \n\n",
+        "---",
+        "\u2014that"
+      ],
+      "29": [
+        " toward",
+        " ---",
+        " _____",
+        "  \n\n",
+        "---"
+      ],
+      "30": [
+        " toward",
+        "  \n\n",
+        " ---",
+        " \u2014",
+        " .**"
+      ],
+      "31": [
+        " toward",
+        " \u2014",
+        " movement",
+        " motion",
+        " .**"
+      ],
+      "32": [
+        " toward",
+        " .**",
+        " \u2014",
+        " movement",
+        "\u2014even"
+      ],
+      "33": [
+        " toward",
+        " .**",
+        " movement",
+        " motion",
+        " \u2014"
+      ],
+      "34": [
+        " .**",
+        " toward",
+        " movement",
+        " motion",
+        "-motion"
+      ],
+      "35": [
+        " .**",
+        " toward",
+        " movement",
+        " .",
+        " .\""
+      ],
+      "36": [
+        " .**",
+        " movement",
+        " toward",
+        " motion",
+        "Movement"
+      ],
+      "37": [
+        " movement",
+        " motion",
+        " .**",
+        "Movement",
+        " Movement"
+      ],
+      "38": [
+        " movement",
+        " motion",
+        "Movement",
+        " Movement",
+        "movement"
+      ],
+      "39": [
+        " movement",
+        " motion",
+        "Movement",
+        " Movement",
+        "movement"
+      ],
+      "40": [
+        " movement",
+        " motion",
+        "Movement",
+        " Movement",
+        "movement"
+      ],
+      "41": [
+        " movement",
+        " motion",
+        "Movement",
+        " Movement",
+        "movement"
+      ],
+      "42": [
+        " movement",
+        " motion",
+        "Movement",
+        "-motion",
+        " Movement"
+      ],
+      "43": [
+        " movement",
+        " motion",
+        " Movement",
+        "Movement",
+        "-motion"
+      ],
+      "44": [
+        " movement",
+        " motion",
+        " Movement",
+        "Movement",
+        " momentum"
+      ],
+      "45": [
+        " movement",
+        " motion",
+        " Movement",
+        " momentum",
+        "Movement"
+      ],
+      "46": [
+        " movement",
+        " motion",
+        " .**",
+        " Movement",
+        " momentum"
+      ],
+      "47": [
+        " movement",
+        " .**",
+        ".\\\"",
+        ".**",
+        ".\\"
+      ],
+      "48": [
+        ".\\\"",
+        ".\"",
+        ".\\",
+        ".**",
+        " .\""
+      ],
+      "49": [
+        ".\"",
+        ".\\\"",
+        ".**",
+        ".\\",
+        ".]"
+      ],
+      "50": [
+        ".\"",
+        ".**",
+        ".]",
+        ".\u201d",
+        ".*"
+      ],
+      "51": [
+        ".\"",
+        ".**",
+        ".]",
+        ".*",
+        ".\u201d"
+      ],
+      "52": [
+        ".\"",
+        ".\u201d",
+        ".**",
+        ".]",
+        ".\u00bb"
+      ],
+      "53": [
+        ".\"",
+        ".**",
+        ".\u201d",
+        ".]",
+        ".\\\""
+      ],
+      "54": [
+        ".\"",
+        ".\u201d",
+        ".\\\"",
+        ".\u00bb",
+        ".]"
+      ],
+      "55": [
+        ".\"",
+        ".\u201d",
+        ".\\\"",
+        ".\u00bb",
+        ".**"
+      ],
+      "56": [
+        ".\"",
+        ".\\\"",
+        ".*",
+        ".\u201d",
+        ".\u00bb"
+      ],
+      "57": [
+        ".\"",
+        ".\\\"",
+        ".*",
+        ".\u201d",
+        ".\u00bb"
+      ],
+      "58": [
+        ".\"",
+        ".\\\"",
+        " stagn",
+        ".\u201d",
+        ".*"
+      ],
+      "59": [
+        ".\"",
+        ".*",
+        ".\\\"",
+        ".\u201d",
+        ".'\""
+      ],
+      "60": [
+        ".\"",
+        ".*",
+        ".\\\"",
+        ".\u201d",
+        ".\u201d*"
+      ],
+      "61": [
+        ".\"",
+        ".*",
+        " .\"",
+        ".'\"",
+        ".\")"
+      ],
+      "62": [
+        ".\"",
+        ".*",
+        ".\u201d*",
+        "!\"",
+        " .\""
+      ]
+    }
+  },
+  {
+    "transcript_id": "64ccf7cce8ec3badfc4ae04d94eab7e32779982e87b0c6a34c31660839643d3cf9/t003",
+    "null_pos": 551,
+    "anchor_pos": 49,
+    "trajectory": {
+      "0": [
+        ".",
+        ",",
+        " \u2013",
+        "\u2013",
+        ";"
+      ],
+      "1": [
+        " \u2013",
+        "\u2013",
+        ",",
+        ".",
+        "\u2013and"
+      ],
+      "2": [
+        ",",
+        ".",
+        "\u2013",
+        "\u2026..",
+        " \u2013"
+      ],
+      "3": [
+        " pornstar",
+        " Shemale",
+        "\u4e13\u680f\u6536\u5f55\u8be5\u5185\u5bb9",
+        " Blowjob",
+        " milfs"
+      ],
+      "4": [
+        ".",
+        ",",
+        "......",
+        " \u201c.",
+        ".@"
+      ],
+      "5": [
+        ".",
+        ",",
+        ":",
+        "\u2026..",
+        " \u200b\u200b"
+      ],
+      "6": [
+        ".",
+        "......",
+        ",",
+        "\u2026\u2026",
+        "\""
+      ],
+      "7": [
+        ".",
+        ",",
+        " \n",
+        ":",
+        "......"
+      ],
+      "8": [
+        ".",
+        ",",
+        "\u00a0",
+        ";",
+        ":"
+      ],
+      "9": [
+        ",",
+        ".",
+        "\u00a0",
+        ";",
+        ":"
+      ],
+      "10": [
+        ",",
+        ".",
+        "\u00a0",
+        ";",
+        ":"
+      ],
+      "11": [
+        "ting",
+        ",",
+        ":",
+        "\u99a8",
+        "\u00adtion"
+      ],
+      "12": [
+        "ting",
+        ":",
+        "-vous",
+        "idencia",
+        "weise"
+      ],
+      "13": [
+        "ting",
+        "\ufffd\ufffd",
+        "-vous",
+        "\u6c34\u6e29",
+        "\u9e79"
+      ],
+      "14": [
+        "ting",
+        " Wade",
+        " preventative",
+        ",",
+        " informative"
+      ],
+      "15": [
+        "\u9e79",
+        " preventative",
+        "ting",
+        "\u9592",
+        " Showcase"
+      ],
+      "16": [
+        ",",
+        "ting",
+        "\u00a0",
+        ":",
+        " familiar"
+      ],
+      "17": [
+        ",",
+        "ting",
+        " Comfort",
+        ":",
+        " Drum"
+      ],
+      "18": [
+        "ting",
+        "\ufffd\ufffd",
+        "\u98d2",
+        "\ub108\uc9c0",
+        " thoughtful"
+      ],
+      "19": [
+        "\ufffd\ufffd",
+        "\u9887\u5177",
+        "ahead",
+        "\u706b\u901f",
+        "\u99a8"
+      ],
+      "20": [
+        "<|endoftext|>",
+        "\n\n",
+        " \n\n",
+        " \n\n\n",
+        "\n\n\n"
+      ],
+      "21": [
+        "\n",
+        "\ufffd\ufffd",
+        "\ufffd\ufffd",
+        "\ufffd\ufffd",
+        " \n"
+      ],
+      "22": [
+        " \n",
+        "\n",
+        "\ufffd\ufffd",
+        "\ufffd\ufffd",
+        " ..."
+      ],
+      "23": [
+        "\n\n",
+        " ...",
+        "<|endoftext|>",
+        " ,",
+        " \n\n"
+      ],
+      "24": [
+        " \n\n",
+        "\n\n",
+        "  \n\n",
+        " \n\n\n",
+        "\u00a0"
+      ],
+      "25": [
+        " \n\n",
+        "\n\n",
+        " ...",
+        " emotionally",
+        " emotional"
+      ],
+      "26": [
+        "\n\n",
+        " \n\n",
+        " emotional",
+        " emotionally",
+        " spiritual"
+      ],
+      "27": [
+        "\n\n",
+        " \n\n",
+        " ,",
+        " ...",
+        " --"
+      ],
+      "28": [
+        " \n\n",
+        "\n\n",
+        "  \n\n",
+        " \n\n\n",
+        " \n"
+      ],
+      "29": [
+        " \n\n",
+        " ...",
+        "\n\n",
+        " [...]",
+        " \n"
+      ],
+      "30": [
+        " \n\n",
+        " ...",
+        " \n",
+        " \u2026",
+        " :"
+      ],
+      "31": [
+        " ,",
+        " before",
+        " during",
+        " first",
+        " ."
+      ],
+      "32": [
+        " before",
+        " during",
+        " first",
+        " ,",
+        " prior"
+      ],
+      "33": [
+        " mindset",
+        " meditation",
+        " emotionally",
+        " ritual",
+        " psychological"
+      ],
+      "34": [
+        " meditation",
+        " mindset",
+        " ritual",
+        " mental",
+        " intros"
+      ],
+      "35": [
+        " [\u2026]",
+        " \u2026",
+        "\u2011",
+        " \u2013",
+        " \u2014"
+      ],
+      "36": [
+        " ritual",
+        " rituals",
+        " Ritual",
+        " meditation",
+        " spiritually"
+      ],
+      "37": [
+        " ritual",
+        " Ritual",
+        " rituals",
+        " meditation",
+        " contempl"
+      ],
+      "38": [
+        " ritual",
+        " contempl",
+        " emotionally",
+        " meditation",
+        " Ritual"
+      ],
+      "39": [
+        " ritual",
+        " emotionally",
+        " meditation",
+        " contempl",
+        " intros"
+      ],
+      "40": [
+        " ritual",
+        " meditation",
+        " emotionally",
+        " emotions",
+        " contempl"
+      ],
+      "41": [
+        " ritual",
+        " meditation",
+        " emotionally",
+        " emotional",
+        " emotions"
+      ],
+      "42": [
+        " meditation",
+        " ritual",
+        " emotionally",
+        " emotional",
+        " emotions"
+      ],
+      "43": [
+        " meditation",
+        " emotionally",
+        " emotional",
+        " emotions",
+        " feelings"
+      ],
+      "44": [
+        " meditation",
+        " emotionally",
+        " emotional",
+        " emotions",
+        " feelings"
+      ],
+      "45": [
+        " meditation",
+        " emotionally",
+        " emotional",
+        " mindset",
+        " emotions"
+      ],
+      "46": [
+        " mindset",
+        " meditation",
+        " emotionally",
+        " emotional",
+        " Meditation"
+      ],
+      "47": [
+        " mindset",
+        " meditation",
+        " emotionally",
+        " Meditation",
+        " emotional"
+      ],
+      "48": [
+        " mindset",
+        " emotionally",
+        " meditation",
+        " emotional",
+        " Meditation"
+      ],
+      "49": [
+        " Preparation",
+        " mindset",
+        "Prepare",
+        " Prepare",
+        " Meditation"
+      ],
+      "50": [
+        " Preparation",
+        "Prepare",
+        " Prepare",
+        "\u5fc3\u7406\u51c6\u5907",
+        "prepare"
+      ],
+      "51": [
+        " Preparation",
+        "Prepare",
+        " Prepare",
+        "prepare",
+        " Meditation"
+      ],
+      "52": [
+        " Preparation",
+        "Prepare",
+        " Prepare",
+        "prepare",
+        " preparation"
+      ],
+      "53": [
+        " mindset",
+        " meditation",
+        " Meditation",
+        " beforehand",
+        " Preparation"
+      ],
+      "54": [
+        " cleanse",
+        " cleansing",
+        " meditation",
+        " Meditation",
+        "Before"
+      ],
+      "55": [
+        " cleanse",
+        " cleansing",
+        " meditation",
+        " Meditation",
+        " beforehand"
+      ],
+      "56": [
+        " cleansing",
+        " cleanse",
+        " Ritual",
+        " Cleans",
+        " Meditation"
+      ],
+      "57": [
+        " cleansing",
+        " cleanse",
+        " Ritual",
+        " Cleans",
+        " ritual"
+      ],
+      "58": [
+        " cleansing",
+        " cleanse",
+        " Cleans",
+        "\u9759\u5fc3",
+        " Ritual"
+      ],
+      "59": [
+        " meditation",
+        " Meditation",
+        " med",
+        " cleansing",
+        " cleanse"
+      ],
+      "60": [
+        "\n",
+        " Ground",
+        " grounding",
+        " cleanse",
+        " meditation"
+      ],
+      "61": [
+        "\n",
+        " Ground",
+        " cleanse",
+        " grounding",
+        " purification"
+      ],
+      "62": [
+        "\n",
+        " Meditation",
+        " Ground",
+        " Cleans",
+        " Charge"
+      ]
+    }
+  },
+  {
+    "transcript_id": "645f17949c8cfc0fcf071d247d286bdacdb8c77659e83b626c7cf38b7e550f5b61/t006",
+    "null_pos": 507,
+    "anchor_pos": 138,
+    "trajectory": {
+      "0": [
+        ",",
+        ".",
+        "\u00a0\u00a0",
+        ";",
+        "\u00a0"
+      ],
+      "1": [
+        "s",
+        "\u2026..",
+        ",",
+        " \u200b\u200b",
+        "  \n\n"
+      ],
+      "2": [
+        "\u2026.",
+        "\u2026..",
+        "\u2026",
+        ",",
+        "."
+      ],
+      "3": [
+        "\ufffd\ufffd",
+        "\u4e13\u680f\u6536\u5f55\u8be5\u5185\u5bb9",
+        " milfs",
+        " **\u201c",
+        "endiz"
+      ],
+      "4": [
+        " **\u201c",
+        "s",
+        "\u00a0\u00a0",
+        "\u200e",
+        "ed"
+      ],
+      "5": [
+        " **\u201c",
+        " **\"",
+        "-**",
+        "ness",
+        "ankan"
+      ],
+      "6": [
+        " **\u201c",
+        " **\"",
+        "  \n\n",
+        " **",
+        "**"
+      ],
+      "7": [
+        "  \n\n",
+        " **\"",
+        "ness",
+        "  \n",
+        " **\u201c"
+      ],
+      "8": [
+        "  \n\n",
+        " \n\n",
+        "   \n\n",
+        "  \n",
+        "\u00a0"
+      ],
+      "9": [
+        "\u00a0",
+        "\u2014\"",
+        "\u00a0\u00a0",
+        "\u2014",
+        "ness"
+      ],
+      "10": [
+        "\u00a0",
+        " \u00ad",
+        "\u00ac",
+        "  \n\n",
+        "\u00a0\u00a0"
+      ],
+      "11": [
+        "ness",
+        "\u826f\u673a",
+        " requisite",
+        " **\"",
+        " **"
+      ],
+      "12": [
+        "ness",
+        "\u826f\u673a",
+        "\u81ea\u4e2a",
+        " **",
+        " requisite"
+      ],
+      "13": [
+        "ness",
+        "\u4fe9\u4eba",
+        " impactful",
+        "\u81ea\u4e2a",
+        "\u826f\u673a"
+      ],
+      "14": [
+        " requisite",
+        "ness",
+        "\u4fe9\u4eba",
+        " entirety",
+        " hefty"
+      ],
+      "15": [
+        " requisite",
+        "s",
+        " entirety",
+        "ness",
+        " impactful"
+      ],
+      "16": [
+        "s",
+        " entirety",
+        " requisite",
+        " hefty",
+        " standout"
+      ],
+      "17": [
+        "s",
+        " hefty",
+        " entirety",
+        " requisite",
+        " newfound"
+      ],
+      "18": [
+        "s",
+        " requisite",
+        " hefty",
+        " entirety",
+        " newfound"
+      ],
+      "19": [
+        " requisite",
+        " entirety",
+        " newfound",
+        "\u9887\u5177",
+        " impactful"
+      ],
+      "20": [
+        "<|endoftext|>",
+        "  \n\n",
+        " \n\n",
+        " requisite",
+        " newfound"
+      ],
+      "21": [
+        " impactful",
+        " ;;^",
+        " newfound",
+        " transformative",
+        "\u5171\u540c\u6253\u9020"
+      ],
+      "22": [
+        " impactful",
+        " transformative",
+        " requisite",
+        " newfound",
+        " foundational"
+      ],
+      "23": [
+        " requisite",
+        " newfound",
+        " transformative",
+        " impactful",
+        " myriad"
+      ],
+      "24": [
+        " \n\n",
+        "  \n\n",
+        "   \n\n",
+        " requisite",
+        " \n\n\n\n"
+      ],
+      "25": [
+        " impactful",
+        " transformative",
+        "\u76f8\u5173\u6750\u6599",
+        " foundational",
+        "\u4eea\u5f0f\u611f"
+      ],
+      "26": [
+        " \n\n",
+        " impactful",
+        " symbolic",
+        " transformative",
+        " symbolism"
+      ],
+      "27": [
+        " \n\n",
+        "  \n\n",
+        "\n\n",
+        "   \n\n",
+        " \r\n\r\n"
+      ],
+      "28": [
+        " \n\n",
+        "  \n\n",
+        "   \n\n",
+        " symbolic",
+        " impactful"
+      ],
+      "29": [
+        " \n\n",
+        "  \n\n",
+        " \n",
+        "   \n\n",
+        "\n\n"
+      ],
+      "30": [
+        " \n\n",
+        "  \n\n",
+        " \n",
+        "\n\n",
+        " **"
+      ],
+      "31": [
+        " \n\n",
+        "  \n\n",
+        " \n",
+        "\n\n",
+        " symbolic"
+      ],
+      "32": [
+        " symbolic",
+        " transformative",
+        " foundational",
+        " symbolism",
+        " cultural"
+      ],
+      "33": [
+        " symbolic",
+        " symbolism",
+        " transformative",
+        " foundational",
+        " cultural"
+      ],
+      "34": [
+        " symbolic",
+        " transformative",
+        " symbolism",
+        " meticulously",
+        " foundational"
+      ],
+      "35": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " Symbol"
+      ],
+      "36": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " Symbol"
+      ],
+      "37": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " Symbol"
+      ],
+      "38": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " Symbol"
+      ],
+      "39": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " Symbol"
+      ],
+      "40": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " symbol",
+        " Symbol"
+      ],
+      "41": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " symbol",
+        " rituals"
+      ],
+      "42": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " symbol",
+        " rituals"
+      ],
+      "43": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " rituals"
+      ],
+      "44": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " rituals"
+      ],
+      "45": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " symbol",
+        " rituals"
+      ],
+      "46": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " symbol",
+        " rituals"
+      ],
+      "47": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " physical",
+        " rituals"
+      ],
+      "48": [
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " rituals",
+        " physical"
+      ],
+      "49": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " Ritual",
+        " rituals"
+      ],
+      "50": [
+        " symbolic",
+        " symbolism",
+        " ritual",
+        " Ritual",
+        " rituals"
+      ],
+      "51": [
+        " ritual",
+        " Ritual",
+        " symbolic",
+        " symbolism",
+        "\u4eea\u5f0f\u611f"
+      ],
+      "52": [
+        " Ritual",
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " tactile"
+      ],
+      "53": [
+        " Ritual",
+        " symbolic",
+        " ritual",
+        " symbolism",
+        " rituals"
+      ],
+      "54": [
+        " Ritual",
+        " ritual",
+        " symbolic",
+        " physical",
+        "physical"
+      ],
+      "55": [
+        " physical",
+        " Physical",
+        "physical",
+        " Ritual",
+        " ritual"
+      ],
+      "56": [
+        " Physical",
+        " Ritual",
+        " bodily",
+        " physical",
+        " ritual"
+      ],
+      "57": [
+        " Ritual",
+        " ritual",
+        " Physical",
+        " bodily",
+        " physical"
+      ],
+      "58": [
+        " Physical",
+        " Ritual",
+        " ritual",
+        " physical",
+        " bodily"
+      ],
+      "59": [
+        " bodily",
+        " Physical",
+        " Body",
+        " visceral",
+        " physical"
+      ],
+      "60": [
+        " bodily",
+        " Physical",
+        " visceral",
+        " Ritual",
+        " Body"
+      ],
+      "61": [
+        " Physical",
+        " Ritual",
+        " bodily",
+        " Body",
+        " Embedded"
+      ],
+      "62": [
+        " Physical",
+        " Embedded",
+        " Ritual",
+        " Symbol",
+        " Body"
+      ]
+    }
+  }
+]

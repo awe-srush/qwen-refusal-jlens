@@ -1,0 +1,2237 @@
+[
+  {
+    "transcript_id": "642e03abc07f25f7b8c081e1523b54f7932aff87d5edc55b0f67d79851812e6925/t041",
+    "target_pos": 99,
+    "trajectory": {
+      "0": [
+        " ",
+        ".",
+        ",",
+        " (",
+        "-"
+      ],
+      "1": [
+        " ",
+        ".",
+        "/",
+        ",",
+        "-"
+      ],
+      "2": [
+        " ",
+        ".",
+        "/",
+        "-",
+        ","
+      ],
+      "3": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "4": [
+        " ",
+        ".",
+        "-",
+        " (",
+        "/"
+      ],
+      "5": [
+        " ",
+        ".",
+        " (",
+        "-",
+        "/"
+      ],
+      "6": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "7": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "8": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "9": [
+        " ",
+        ".",
+        " (",
+        "-",
+        "!"
+      ],
+      "10": [
+        " ",
+        " (",
+        ".",
+        "!",
+        "-"
+      ],
+      "11": [
+        ".",
+        " ",
+        " (",
+        "!",
+        ";"
+      ],
+      "12": [
+        ".",
+        "!",
+        " (",
+        " ",
+        "\ufffd"
+      ],
+      "13": [
+        "!",
+        " (",
+        ".",
+        " ",
+        "\ufffd"
+      ],
+      "14": [
+        "\ufffd",
+        "!",
+        " see",
+        " detailed",
+        " ("
+      ],
+      "15": [
+        "!",
+        " (",
+        " detailed",
+        "\ufffd",
+        " "
+      ],
+      "16": [
+        " ",
+        "iol",
+        " image",
+        "~",
+        "ing"
+      ],
+      "17": [
+        " image",
+        "\u76f4\u63a5",
+        " directly",
+        " top",
+        "\u8363\u5e78"
+      ],
+      "18": [
+        "\u6211\u4e0d\u80fd",
+        " et",
+        "ingly",
+        "\u56e0\u4e3a",
+        "Cannot"
+      ],
+      "19": [
+        "\u56e0\u4e3a",
+        "ulum",
+        " because",
+        "\u6211\u4e0d\u80fd",
+        "\u56fe\u50cf"
+      ],
+      "20": [
+        "\u6211\u4e0d\u80fd",
+        "ardia",
+        "enment",
+        "\u4e0d\u53ef\u4ee5",
+        "Cannot"
+      ],
+      "21": [
+        "\u6211\u4e0d\u80fd",
+        "ulum",
+        "ed",
+        "\u56e0\u4e3a",
+        "\u6548"
+      ],
+      "22": [
+        "ed",
+        "\u6211\u4e0d\u80fd",
+        "\u4e0d\u53ef\u4ee5",
+        "ulum",
+        "\u4e0d\u80fd\u4f5c\u4e3a"
+      ],
+      "23": [
+        "ed",
+        "\ufffd",
+        "ulum",
+        "\u6211\u4e0d\u80fd",
+        "\u4e0d\u53ef\u4ee5"
+      ],
+      "24": [
+        "\u4e0d\u53ef\u4ee5",
+        "ed",
+        "\u76c8\u76c8",
+        "\u4efb\u4f55",
+        "ulum"
+      ],
+      "25": [
+        " any",
+        "\u4efb\u4f55",
+        "ed",
+        "\ufffd",
+        "rot"
+      ],
+      "26": [
+        " any",
+        "\u4efb\u4f55",
+        "rot",
+        "!",
+        "ink"
+      ],
+      "27": [
+        " any",
+        "\u4efb\u4f55",
+        "rot",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u76f4\u63a5"
+      ],
+      "28": [
+        "\u5ba2",
+        " any",
+        "CHAT",
+        "rot",
+        "\u05db\u05dc"
+      ],
+      "29": [
+        " any",
+        "\u754c\u5b9a",
+        "yll",
+        "\u5ba2",
+        "CHAT"
+      ],
+      "30": [
+        "yll",
+        "\u7f72",
+        " any",
+        "jes",
+        "CHAT"
+      ],
+      "31": [
+        "\u7f72",
+        "yll",
+        "\u4e00\u904d",
+        "ersch",
+        "\u699c"
+      ],
+      "32": [
+        "Bins",
+        "\u5feb\u5730",
+        "\u5165\u5ba4",
+        "SRC",
+        "yll"
+      ],
+      "33": [
+        "itif",
+        "theless",
+        "\u81f4\u5bcc",
+        "ipc",
+        "elis"
+      ],
+      "34": [
+        "theless",
+        "\ufffd",
+        "\u00f0i",
+        "\u00e9g",
+        "itif"
+      ],
+      "35": [
+        "\u5efa\u8bae\u60a8",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "theless",
+        "CHAT",
+        "\u00e9g"
+      ],
+      "36": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4ee5\u8eab",
+        "ipc",
+        "CHAT",
+        "\u52a9"
+      ],
+      "37": [
+        "\u4f36\u4fd0",
+        "_INITIALIZER",
+        "_configure",
+        "ook",
+        "\u5efa\u8bae\u60a8"
+      ],
+      "38": [
+        "ook",
+        "\u5efa\u8bae\u60a8",
+        "\u5165\u5ba4",
+        "\u3064\u3044\u3066",
+        " nor"
+      ],
+      "39": [
+        "ook",
+        "\u5173\u4e8e\u5f00\u5c55",
+        "yll",
+        "\u5efa\u8bae\u60a8",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "40": [
+        "ook",
+        "yll",
+        "\u5173\u4e8e\u5f00\u5c55",
+        "\u5efa\u8bae\u60a8",
+        "\u4e5f\u5e76\u4e0d"
+      ],
+      "41": [
+        "yll",
+        "ook",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "theless"
+      ],
+      "42": [
+        "\u52a9",
+        "yll",
+        "theless",
+        "\u5e78",
+        "Unsafe"
+      ],
+      "43": [
+        "yll",
+        "\u52a9",
+        "\u4e5f\u4e0d\u80fd",
+        "theless",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "44": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        " any",
+        "\u4e5f\u4e0d\u6562",
+        "yll"
+      ],
+      "45": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "ouch",
+        " directly"
+      ],
+      "46": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "ix",
+        "ox"
+      ],
+      "47": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "\u52a9",
+        "\u4e5f\u65e0\u6cd5",
+        "\u4e5f\u4e0d\u80fd"
+      ],
+      "48": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "\u8fdd\u6cd5",
+        "bsites"
+      ],
+      "49": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "\u52a9",
+        "\u7684\u65b9\u6848",
+        "uto"
+      ],
+      "50": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " providing",
+        "\u63d0\u4f9b\u4e00\u4e2a"
+      ],
+      "51": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " recommend",
+        " providing"
+      ],
+      "52": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b\u4e00\u4e2a",
+        " providing"
+      ],
+      "53": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides",
+        " providing"
+      ],
+      "54": [
+        " provide",
+        "\u63d0\u4f9b",
+        " recommend",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides"
+      ],
+      "55": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " recommend",
+        " provides"
+      ],
+      "56": [
+        " provide",
+        "\u63d0\u4f9b",
+        " recommend",
+        " provides",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "57": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " recommend"
+      ],
+      "58": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "59": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "60": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " recommend",
+        " providing"
+      ],
+      "61": [
+        " provide",
+        " recommend",
+        " provides",
+        "\u63d0\u4f9b",
+        " suggest"
+      ],
+      "62": [
+        " provide",
+        " recommend",
+        " suggest",
+        " assist",
+        " provides"
+      ]
+    }
+  },
+  {
+    "transcript_id": "64943d6b461595a6143309bf4140ffe7b1b22c4b3e790df7b6fb28d446cc8c98c1/t012",
+    "target_pos": 122,
+    "trajectory": {
+      "0": [
+        " ",
+        ".",
+        "-",
+        ",",
+        " ("
+      ],
+      "1": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "2": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "3": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "4": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "5": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "6": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "7": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "8": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "9": [
+        " ",
+        ".",
+        " (",
+        "-",
+        "'"
+      ],
+      "10": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "11": [
+        ".",
+        " ",
+        " (",
+        "-",
+        "/"
+      ],
+      "12": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ";"
+      ],
+      "13": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ";"
+      ],
+      "14": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ";"
+      ],
+      "15": [
+        " ",
+        ".",
+        " (",
+        ";",
+        "I"
+      ],
+      "16": [
+        " ",
+        ".",
+        "ing",
+        "-",
+        " ("
+      ],
+      "17": [
+        " ",
+        "ing",
+        "-",
+        ".",
+        " ("
+      ],
+      "18": [
+        " ",
+        "\u4e5f\u65e0\u6cd5",
+        ".",
+        " (",
+        "ance"
+      ],
+      "19": [
+        "\u4e5f\u65e0\u6cd5",
+        " ",
+        "ance",
+        "\u5b57",
+        "ing"
+      ],
+      "20": [
+        "\u4e5f\u65e0\u6cd5",
+        "\u5339",
+        "\u786e\u5207",
+        " ",
+        "ance"
+      ],
+      "21": [
+        "\u4e5f\u65e0\u6cd5",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "ing",
+        "\u5339",
+        "."
+      ],
+      "22": [
+        " ",
+        ".",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "ing",
+        "\u5339"
+      ],
+      "23": [
+        " ",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "  ",
+        ".",
+        " anymore"
+      ],
+      "24": [
+        " ",
+        ".",
+        " et",
+        "!",
+        "\u5339"
+      ],
+      "25": [
+        " ",
+        ".",
+        " et",
+        "!",
+        "ing"
+      ],
+      "26": [
+        " ",
+        " any",
+        ".",
+        "!",
+        " et"
+      ],
+      "27": [
+        ".",
+        " any",
+        " ",
+        "'t",
+        " or"
+      ],
+      "28": [
+        " any",
+        "!",
+        ".",
+        "'t",
+        " "
+      ],
+      "29": [
+        " any",
+        ".",
+        " ",
+        "D",
+        "ob"
+      ],
+      "30": [
+        " any",
+        ".",
+        "/",
+        "*",
+        " "
+      ],
+      "31": [
+        " any",
+        "D",
+        "*",
+        ".",
+        "L"
+      ],
+      "32": [
+        " any",
+        "D",
+        "L",
+        "*",
+        "/"
+      ],
+      "33": [
+        "S",
+        "/",
+        "D",
+        "L",
+        "P"
+      ],
+      "34": [
+        "S",
+        "D",
+        " any",
+        "P",
+        "A"
+      ],
+      "35": [
+        "S",
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " nor",
+        " safety"
+      ],
+      "36": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        " safety",
+        " live",
+        " nor"
+      ],
+      "37": [
+        " safety",
+        "\u5b89\u5168",
+        " Safety",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any"
+      ],
+      "38": [
+        " safety",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u5b89\u5168",
+        " recommend"
+      ],
+      "39": [
+        " safety",
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u5b89\u5168",
+        " advice"
+      ],
+      "40": [
+        " safety",
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u5b89\u5168",
+        " advice"
+      ],
+      "41": [
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " safety",
+        "\u52a9",
+        " provide"
+      ],
+      "42": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        "\u2011",
+        " safety"
+      ],
+      "43": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        " provide",
+        "\u52a9",
+        " safety"
+      ],
+      "44": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u4ee5\u4efb\u4f55",
+        "\u52a9",
+        " provide"
+      ],
+      "45": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u6709\u4efb\u4f55",
+        "\u52a9",
+        "\u4ee5\u4efb\u4f55"
+      ],
+      "46": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        "\u4ee5\u4efb\u4f55",
+        " provide"
+      ],
+      "47": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        "\u6709\u4efb\u4f55",
+        " provide"
+      ],
+      "48": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        " provide",
+        "\u6709\u4efb\u4f55"
+      ],
+      "49": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        " provide",
+        "\u6709\u4efb\u4f55",
+        " any"
+      ],
+      "50": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        " provide",
+        " assist",
+        "\u63d0\u4f9b"
+      ],
+      "51": [
+        "\u52a9",
+        " recommend",
+        " advice",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide"
+      ],
+      "52": [
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " assist",
+        "\u52a9"
+      ],
+      "53": [
+        " provide",
+        " assist",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        " recommend"
+      ],
+      "54": [
+        " assist",
+        " provide",
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " recommend"
+      ],
+      "55": [
+        " assist",
+        " provide",
+        "\u534f\u52a9",
+        "\u52a9",
+        " assists"
+      ],
+      "56": [
+        " assist",
+        "\u534f\u52a9",
+        " provide",
+        " assists",
+        " assistance"
+      ],
+      "57": [
+        " provide",
+        " assist",
+        "\u534f\u52a9",
+        "\u63d0\u4f9b",
+        " assists"
+      ],
+      "58": [
+        " provide",
+        " assist",
+        "\u63d0\u4f9b",
+        "\u534f\u52a9",
+        " assists"
+      ],
+      "59": [
+        " provide",
+        "\u63d0\u4f9b",
+        " assist",
+        " provides",
+        " providing"
+      ],
+      "60": [
+        " assist",
+        " provide",
+        " assists",
+        " Ass",
+        "Ass"
+      ],
+      "61": [
+        " provide",
+        " assist",
+        " assists",
+        "\u63d0\u4f9b",
+        "_ass"
+      ],
+      "62": [
+        " provide",
+        " assist",
+        " facilitate",
+        " support",
+        " assists"
+      ]
+    }
+  },
+  {
+    "transcript_id": "648e24b3aee83e8e9b36c6f6377147f4f89af5358d738450c59cde3c78e1b8c13c/t063",
+    "target_pos": 150,
+    "trajectory": {
+      "0": [
+        " ",
+        ".",
+        ",",
+        " (",
+        "-"
+      ],
+      "1": [
+        " ",
+        ".",
+        "-",
+        ",",
+        " ("
+      ],
+      "2": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "3": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "4": [
+        " ",
+        ".",
+        "-",
+        " (",
+        "/"
+      ],
+      "5": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "6": [
+        " ",
+        ".",
+        " (",
+        "-",
+        "!"
+      ],
+      "7": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "8": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "9": [
+        " ",
+        ".",
+        " (",
+        ",",
+        "-"
+      ],
+      "10": [
+        " ",
+        " (",
+        ".",
+        ",",
+        "-"
+      ],
+      "11": [
+        ".",
+        " (",
+        " ",
+        "!",
+        ","
+      ],
+      "12": [
+        ".",
+        " ",
+        " (",
+        "!",
+        ","
+      ],
+      "13": [
+        "!",
+        ".",
+        " (",
+        " ",
+        "**"
+      ],
+      "14": [
+        "!",
+        "**",
+        " ",
+        ".",
+        "\u6070"
+      ],
+      "15": [
+        " (",
+        " ",
+        ".",
+        "!",
+        "\u6070"
+      ],
+      "16": [
+        " ",
+        " (",
+        ".",
+        "F",
+        "!"
+      ],
+      "17": [
+        " (",
+        "!",
+        "F",
+        " ",
+        "."
+      ],
+      "18": [
+        "\u5b57",
+        "ed",
+        "ingly",
+        " et",
+        "!"
+      ],
+      "19": [
+        "\u5b57",
+        "ulum",
+        " any",
+        "\u56e0\u4e3a",
+        " directly"
+      ],
+      "20": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e0d\u53ef\u4ee5",
+        "arry",
+        "\u6211\u4e0d\u80fd",
+        "\u5b57"
+      ],
+      "21": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "ulum",
+        "\u6211\u4e0d\u80fd",
+        "arry",
+        " currently"
+      ],
+      "22": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "ed",
+        " any",
+        "B",
+        "'t"
+      ],
+      "23": [
+        "ulum",
+        "B",
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "ed"
+      ],
+      "24": [
+        " any",
+        " direct",
+        "ulum",
+        "\u76f4\u63a5",
+        "B"
+      ],
+      "25": [
+        " any",
+        " direct",
+        "!",
+        "B",
+        " directly"
+      ],
+      "26": [
+        " any",
+        "\u4efb\u4f55",
+        " direct",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "!"
+      ],
+      "27": [
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4efb\u4f55",
+        " directly",
+        "'t"
+      ],
+      "28": [
+        " any",
+        "\u4efb\u4f55",
+        "ulum",
+        "rot",
+        " access"
+      ],
+      "29": [
+        " any",
+        "!",
+        "\u4efb\u4f55",
+        "rot",
+        "ulum"
+      ],
+      "30": [
+        " any",
+        "\u4efb",
+        "jes",
+        "\u7f72",
+        "uto"
+      ],
+      "31": [
+        "\u7f72",
+        " any",
+        "ulum",
+        "\u4efb",
+        "CHAT"
+      ],
+      "32": [
+        " any",
+        "\u4efb",
+        "\u6838",
+        "L",
+        "imit"
+      ],
+      "33": [
+        "idata",
+        "\u4efb",
+        "\u2019t",
+        "unen",
+        "\u968f\u610f"
+      ],
+      "34": [
+        " direct",
+        "\ufffd",
+        "theless",
+        "tridge",
+        "irect"
+      ],
+      "35": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u76f4\u63a5\u7684",
+        "\u4e00\u6982",
+        "theless",
+        " any"
+      ],
+      "36": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " direct",
+        "\u4ee5\u8eab",
+        "imb",
+        "\u76f4\u63a5\u7684"
+      ],
+      "37": [
+        " direct",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " detailed",
+        "irect",
+        "\u4e5f\u65e0\u6cd5"
+      ],
+      "38": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " direct",
+        " detailed",
+        "irect",
+        "ook"
+      ],
+      "39": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " direct",
+        "ook",
+        " any",
+        "\u6307\u4ee4"
+      ],
+      "40": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " direct",
+        "ix",
+        "ook",
+        " safety"
+      ],
+      "41": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u76f4\u63a5\u7684",
+        " directly",
+        " direct",
+        " provide"
+      ],
+      "42": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " directly",
+        "etail",
+        " provide",
+        "ix"
+      ],
+      "43": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " directly",
+        " direct",
+        " any",
+        " provide"
+      ],
+      "44": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        " detailed",
+        "\u6709\u4efb\u4f55",
+        " directly"
+      ],
+      "45": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " directly",
+        " any",
+        "\u6709\u4efb\u4f55",
+        "\u4e5f\u4e0d\u80fd"
+      ],
+      "46": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "uto",
+        " directly",
+        "\u51fa\u4e8e",
+        "\u52a9"
+      ],
+      "47": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u6709\u4efb\u4f55",
+        "\u76f4\u63a5\u7684",
+        "\u4ee5\u4efb\u4f55"
+      ],
+      "48": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u6709\u4efb\u4f55",
+        " directly",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        " any"
+      ],
+      "49": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u6709\u4efb\u4f55",
+        "\u4ee5\u4efb\u4f55",
+        " directly",
+        "\u4e5f\u4e0d\u53ef\u80fd"
+      ],
+      "50": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        "\u63d0\u4f9b",
+        " directly",
+        " provides"
+      ],
+      "51": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        " recommend",
+        "\u63d0\u4f9b",
+        " provides"
+      ],
+      "52": [
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing"
+      ],
+      "53": [
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing"
+      ],
+      "54": [
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " provides",
+        " recommend"
+      ],
+      "55": [
+        " provide",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides",
+        " providing"
+      ],
+      "56": [
+        " provide",
+        "\u63d0\u4f9b",
+        " recommend",
+        " provides",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "57": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "58": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "59": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "60": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "61": [
+        " provide",
+        " recommend",
+        " provides",
+        "\u63d0\u4f9b",
+        " providing"
+      ],
+      "62": [
+        " provide",
+        " recommend",
+        " provides",
+        " Provide",
+        " assist"
+      ]
+    }
+  },
+  {
+    "transcript_id": "64156f8bac3c3b1f4b66f75c739c5b91f723c390983964a08fbbfa4dde04d4c6e5/t013",
+    "target_pos": 130,
+    "trajectory": {
+      "0": [
+        " ",
+        ".",
+        ",",
+        " (",
+        "-"
+      ],
+      "1": [
+        " ",
+        ".",
+        "-",
+        ",",
+        " ("
+      ],
+      "2": [
+        " ",
+        ".",
+        ",",
+        "-",
+        " ("
+      ],
+      "3": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "4": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "5": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "6": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "7": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "8": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "9": [
+        " ",
+        ".",
+        " (",
+        ",",
+        "-"
+      ],
+      "10": [
+        " ",
+        " (",
+        ".",
+        ",",
+        "-"
+      ],
+      "11": [
+        " (",
+        " ",
+        ".",
+        ",",
+        " A"
+      ],
+      "12": [
+        " ",
+        ".",
+        " (",
+        ",",
+        ";"
+      ],
+      "13": [
+        ".",
+        " (",
+        " ",
+        "!",
+        ";"
+      ],
+      "14": [
+        ".",
+        " (",
+        " ",
+        " i",
+        "!"
+      ],
+      "15": [
+        " (",
+        ".",
+        " ",
+        " i",
+        ";"
+      ],
+      "16": [
+        " (",
+        ".",
+        " ",
+        "B",
+        " B"
+      ],
+      "17": [
+        " (",
+        ".",
+        " ",
+        " any",
+        " and"
+      ],
+      "18": [
+        "\u611a",
+        " any",
+        " #",
+        "\u7fa4",
+        "#"
+      ],
+      "19": [
+        " any",
+        "\u5b57",
+        "\u7845",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "arry"
+      ],
+      "20": [
+        "arry",
+        "\u5634",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u6211\u4e0d\u80fd",
+        "\u7845"
+      ],
+      "21": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u6211\u4e0d\u80fd",
+        "arry",
+        " any",
+        " live"
+      ],
+      "22": [
+        " live",
+        "'t",
+        "B",
+        "ck",
+        "ar"
+      ],
+      "23": [
+        "B",
+        "un",
+        " any",
+        " direct",
+        "ex"
+      ],
+      "24": [
+        " any",
+        "P",
+        "B",
+        " direct",
+        "\u5339"
+      ],
+      "25": [
+        " any",
+        "\u5339",
+        "P",
+        "B",
+        "'t"
+      ],
+      "26": [
+        " any",
+        "\u4efb\u4f55",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "'t",
+        " direct"
+      ],
+      "27": [
+        " any",
+        "\u4efb\u4f55",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "'t",
+        "\u2019t"
+      ],
+      "28": [
+        " any",
+        "\u4efb\u4f55",
+        " access",
+        "ult",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "29": [
+        " any",
+        "\u4efb\u4f55",
+        "theless",
+        "ob",
+        "ak"
+      ],
+      "30": [
+        "theless",
+        " any",
+        "\u4efb\u4f55",
+        "jes",
+        "\u4efb"
+      ],
+      "31": [
+        "\u7f72",
+        " any",
+        "theless",
+        "\u7490",
+        "\u5288"
+      ],
+      "32": [
+        "theless",
+        " nor",
+        " any",
+        "ing",
+        "-builder"
+      ],
+      "33": [
+        "\u4e16",
+        "theless",
+        "idata",
+        " nor",
+        "obby"
+      ],
+      "34": [
+        "theless",
+        "\ufffd",
+        "\u4efb",
+        "issez",
+        "assar"
+      ],
+      "35": [
+        "theless",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u831c",
+        "elis",
+        " any"
+      ],
+      "36": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "\u5e78",
+        "\u5feb\u5730",
+        " whitelist"
+      ],
+      "37": [
+        "ix",
+        " direct",
+        "theless",
+        "\u5feb\u5730",
+        "\u52a9"
+      ],
+      "38": [
+        "\u5165\u5ba4",
+        "ix",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " direct",
+        "ook"
+      ],
+      "39": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        " direct",
+        "\u5173\u4e8e\u5f00\u5c55",
+        "\u5e78"
+      ],
+      "40": [
+        "ix",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        "\u5e78"
+      ],
+      "41": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u5e78",
+        "theless",
+        " any"
+      ],
+      "42": [
+        "\u52a9",
+        "/do",
+        "theless",
+        "\u5e78",
+        "irl"
+      ],
+      "43": [
+        "/do",
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "theless",
+        " direct"
+      ],
+      "44": [
+        "/do",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " any",
+        "\u52a9",
+        " detailed"
+      ],
+      "45": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "/do",
+        "\u4e5f\u4e0d\u80fd",
+        " any",
+        "\u52a9"
+      ],
+      "46": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "/do",
+        "\u4e5f\u4e0d\u80fd",
+        "\u4e5f\u4e0d"
+      ],
+      "47": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "/do",
+        "\u4e5f\u65e0\u6cd5",
+        "\u4e5f\u4e0d\u80fd"
+      ],
+      "48": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        " unsafe",
+        "\u6709\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd"
+      ],
+      "49": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u52a9",
+        "\u6709\u4efb\u4f55",
+        "azi",
+        "\u4e5f\u4e0d\u53ef\u80fd"
+      ],
+      "50": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing"
+      ],
+      "51": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        "\u63d0\u4f9b",
+        "\u52a9",
+        " provides"
+      ],
+      "52": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        "\u63d0\u4f9b",
+        " providing",
+        " provides"
+      ],
+      "53": [
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing"
+      ],
+      "54": [
+        " instructions",
+        " provide",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u63d0\u4f9b",
+        " providing"
+      ],
+      "55": [
+        " provide",
+        " instructions",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides"
+      ],
+      "56": [
+        " provide",
+        " instructions",
+        "\u63d0\u4f9b",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides"
+      ],
+      "57": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "58": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        "\u63d0\u4f9b\u4e86"
+      ],
+      "59": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        "\u63d0\u4f9b\u4e86"
+      ],
+      "60": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "61": [
+        " provide",
+        " assist",
+        " provides",
+        "\u63d0\u4f9b",
+        " providing"
+      ],
+      "62": [
+        " provide",
+        " assist",
+        " participate",
+        " support",
+        " provides"
+      ]
+    }
+  },
+  {
+    "transcript_id": "643b9bd6b1c95e4d97e08fe5c6098b3ba489c5be949790c37cc6a3c4b07f9e356d/t014",
+    "target_pos": 115,
+    "trajectory": {
+      "0": [
+        " ",
+        ".",
+        ",",
+        " (",
+        "-"
+      ],
+      "1": [
+        " ",
+        ".",
+        ",",
+        "/",
+        "-"
+      ],
+      "2": [
+        " ",
+        ".",
+        "-",
+        "/",
+        ","
+      ],
+      "3": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "4": [
+        " ",
+        ".",
+        "-",
+        " (",
+        "/"
+      ],
+      "5": [
+        " ",
+        ".",
+        "-",
+        " (",
+        "/"
+      ],
+      "6": [
+        " ",
+        ".",
+        "-",
+        " (",
+        " A"
+      ],
+      "7": [
+        " ",
+        ".",
+        "-",
+        " (",
+        ","
+      ],
+      "8": [
+        " ",
+        ".",
+        "-",
+        " (",
+        "_"
+      ],
+      "9": [
+        " ",
+        ".",
+        " (",
+        "-",
+        ","
+      ],
+      "10": [
+        " ",
+        ".",
+        " (",
+        "!",
+        ","
+      ],
+      "11": [
+        ".",
+        " (",
+        " ",
+        ";",
+        "!"
+      ],
+      "12": [
+        ".",
+        " (",
+        " ",
+        "\ufffd",
+        "!"
+      ],
+      "13": [
+        "!",
+        ".",
+        " (",
+        "~",
+        " "
+      ],
+      "14": [
+        "\ufffd",
+        "!",
+        "ity",
+        "\u4e0b",
+        "etermined"
+      ],
+      "15": [
+        " detailed",
+        " ",
+        " (",
+        "!",
+        "ing"
+      ],
+      "16": [
+        "ing",
+        "iol",
+        "~",
+        " x",
+        " detailed"
+      ],
+      "17": [
+        " image",
+        "\u8363\u5e78",
+        "\u5634",
+        "\u76f4\u63a5",
+        " top"
+      ],
+      "18": [
+        "\u6211\u4e0d\u80fd",
+        "\u5634",
+        "ingly",
+        "Cannot",
+        "ed"
+      ],
+      "19": [
+        "\u56e0\u4e3a",
+        "ulum",
+        " because",
+        "\u6211\u4e0d\u80fd",
+        "enment"
+      ],
+      "20": [
+        "\u6211\u4e0d\u80fd",
+        "enment",
+        "igde",
+        "\u5634",
+        "\u4e0d\u53ef\u4ee5"
+      ],
+      "21": [
+        "\u6211\u4e0d\u80fd",
+        "ed",
+        "ulum",
+        "\u89e3\u7b54",
+        "\u56e0\u4e3a"
+      ],
+      "22": [
+        "ed",
+        "\u6211\u4e0d\u80fd",
+        "\u4e0d\u53ef\u4ee5",
+        "\u89e3\u7b54",
+        "ulum"
+      ],
+      "23": [
+        "ed",
+        "\u89e3\u7b54",
+        "\ufffd",
+        "ulum",
+        "alic"
+      ],
+      "24": [
+        "\u4e0d\u53ef\u4ee5",
+        "ed",
+        "\u89e3\u7b54",
+        "GI",
+        " any"
+      ],
+      "25": [
+        "\ufffd",
+        " any",
+        "\u6050",
+        "ed",
+        "ing"
+      ],
+      "26": [
+        " any",
+        "\u4efb\u4f55",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "rot",
+        "ink"
+      ],
+      "27": [
+        " any",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "alic",
+        "\u4efb\u4f55",
+        "chat"
+      ],
+      "28": [
+        " any",
+        "CHAT",
+        "rot",
+        "elus",
+        "\u5ba2"
+      ],
+      "29": [
+        "\u754c\u5b9a",
+        "elig",
+        "lig",
+        "CHAT",
+        " any"
+      ],
+      "30": [
+        "\u7f72",
+        "yll",
+        "jes",
+        "itif",
+        "uto"
+      ],
+      "31": [
+        "\u7f72",
+        "elis",
+        "yll",
+        "\u4e00\u904d",
+        "\u6050"
+      ],
+      "32": [
+        "\u5165\u5ba4",
+        "SRC",
+        "irati",
+        "\u015bc",
+        "haus"
+      ],
+      "33": [
+        "\u8e74",
+        "elis",
+        "elig",
+        "theless",
+        "itif"
+      ],
+      "34": [
+        "theless",
+        "oney",
+        "\ufffd",
+        "\u624b\u4e0b",
+        "UED"
+      ],
+      "35": [
+        "theless",
+        "\u00e9g",
+        "elis",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "CHAT"
+      ],
+      "36": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u00e9ly",
+        "CHAT",
+        "acom",
+        "ipc"
+      ],
+      "37": [
+        "\u4f36\u4fd0",
+        "\u4e3a\u60a8\u4ecb\u7ecd",
+        " Spectrum",
+        "\u6050",
+        "_configure"
+      ],
+      "38": [
+        "ook",
+        "\u5165\u5ba4",
+        "\u6050",
+        "azi",
+        "\u4f36\u4fd0"
+      ],
+      "39": [
+        "ook",
+        "yll",
+        "\u5efa\u8bae\u60a8",
+        " Cent",
+        "kr"
+      ],
+      "40": [
+        "ook",
+        "yll",
+        " Cent",
+        "\u5165\u5ba4",
+        "\u5efa\u8bae\u60a8"
+      ],
+      "41": [
+        "yll",
+        "theless",
+        "ook",
+        "\u76f4\u63a5\u7684",
+        "\u52a9"
+      ],
+      "42": [
+        "\u52a9",
+        "theless",
+        "yll",
+        " assist",
+        "\u043e\u043f\u0430\u0441"
+      ],
+      "43": [
+        "\u52a9",
+        "yll",
+        "theless",
+        " directly",
+        "\u4e5f\u4e0d\u80fd"
+      ],
+      "44": [
+        "\u52a9",
+        "theless",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u00e9ly",
+        " detailed"
+      ],
+      "45": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "theless",
+        "\u548c\u4f4e",
+        " directly"
+      ],
+      "46": [
+        "\u52a9",
+        "\u548c\u4f4e",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "uto",
+        "theless"
+      ],
+      "47": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "uto",
+        "idential",
+        "\u4e5f\u65e0\u6cd5"
+      ],
+      "48": [
+        "\u52a9",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "bsites",
+        "ILE"
+      ],
+      "49": [
+        "\u52a9",
+        "\u4e5f\u4e0d\u53ef\u80fd",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provide",
+        "ILE"
+      ],
+      "50": [
+        " provide",
+        "\u63d0\u4f9b",
+        " providing",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " provides"
+      ],
+      "51": [
+        " provide",
+        "\u63d0\u4f9b",
+        " providing",
+        " provides",
+        " recommend"
+      ],
+      "52": [
+        " provide",
+        "\u63d0\u4f9b",
+        " providing",
+        " provides",
+        "\u63d0\u4f9b\u4e00\u4e2a"
+      ],
+      "53": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "54": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " instructions"
+      ],
+      "55": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " provided"
+      ],
+      "56": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "57": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "58": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "59": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "60": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " providing",
+        " Provide"
+      ],
+      "61": [
+        " provide",
+        "\u63d0\u4f9b",
+        " provides",
+        " recommend",
+        " providing"
+      ],
+      "62": [
+        " provide",
+        " assist",
+        " recommend",
+        " provides",
+        " providing"
+      ]
+    }
+  }
+]

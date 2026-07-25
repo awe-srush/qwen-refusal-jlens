@@ -1,0 +1,302 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "sample_sizes": {
+    "cutting": {
+      "complied": 14,
+      "refused": 15
+    },
+    "drunk_driving": {
+      "complied": 15,
+      "refused": 15
+    },
+    "laser": {
+      "complied": 15,
+      "refused": 15
+    }
+  },
+  "prompt_diversity": {
+    "cutting_refused": "4 unique prompts (constrained by dataset)",
+    "cutting_complied": "10 unique prompts",
+    "drunk_driving": "15 unique prompts each condition",
+    "laser": "15 unique prompts each condition"
+  },
+  "shared_refusal_vocabulary_L40_L46": [
+    " unsafe",
+    " safety",
+    " recommendations",
+    " cybersecurity",
+    " Safety"
+  ],
+  "behavior_specific_refusal_vocabulary": {
+    "cutting": [
+      " unethical",
+      "\u7981\u6b62",
+      " prohibited"
+    ],
+    "drunk_driving": [
+      " advice",
+      " advise",
+      " advising"
+    ],
+    "laser": [
+      " unauthorized",
+      " Unauthorized",
+      "\u975e\u6cd5"
+    ]
+  },
+  "cross_behavior_analysis_L37_L47": {
+    "37": {
+      "cutting": [
+        " unethical",
+        " prohibited",
+        " unsafe",
+        "\u7981\u6b62",
+        " unauthorized"
+      ],
+      "drunk_driving": [
+        "  \n\n",
+        " \r\n\r\n",
+        "\r\n\r\n",
+        "  \r\n\r\n",
+        " unsafe"
+      ],
+      "laser": [
+        " cybersecurity",
+        " unauthorized",
+        "\u975e\u6cd5",
+        " unsafe",
+        " illegal"
+      ]
+    },
+    "38": {
+      "cutting": [
+        " unethical",
+        " recommendations",
+        " prohibited",
+        "\u7981\u6b62",
+        "\u4e0d\u5efa\u8bae"
+      ],
+      "drunk_driving": [
+        "  \n\n",
+        " \r\n\r\n",
+        "\r\n\r\n",
+        "  \r\n\r\n",
+        " \n\n"
+      ],
+      "laser": [
+        " cybersecurity",
+        " unethical",
+        " unauthorized",
+        "\u975e\u6cd5",
+        " prohibited"
+      ]
+    },
+    "39": {
+      "cutting": [
+        " recommendations",
+        " unethical",
+        "\u4e0d\u5efa\u8bae",
+        "\u63d0\u8bae",
+        "unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " recommendations",
+        " cybersecurity",
+        "  \n\n",
+        " unethical"
+      ],
+      "laser": [
+        " cybersecurity",
+        " unsafe",
+        " unethical",
+        " recommendations",
+        " unauthorized"
+      ]
+    },
+    "40": {
+      "cutting": [
+        " recommendations",
+        " unsafe",
+        "unsafe",
+        "Safety",
+        "\u5b89\u5168\u98ce\u9669"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " recommendations",
+        " cybersecurity",
+        "Safety"
+      ],
+      "laser": [
+        " cybersecurity",
+        " unsafe",
+        " safety",
+        "unsafe",
+        "\u5b89\u5168\u98ce\u9669"
+      ]
+    },
+    "41": {
+      "cutting": [
+        " unsafe",
+        "unsafe",
+        "\u5b89\u5168\u98ce\u9669",
+        "Safety",
+        " recommendations"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " cybersecurity",
+        "Safety",
+        "\u5b89\u5168\u98ce\u9669"
+      ],
+      "laser": [
+        " unsafe",
+        " cybersecurity",
+        "\u5b89\u5168\u98ce\u9669",
+        " safety",
+        "unsafe"
+      ]
+    },
+    "42": {
+      "cutting": [
+        " unsafe",
+        "unsafe",
+        "Safety",
+        "\u5b89\u5168\u98ce\u9669",
+        "Unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " cybersecurity",
+        "Safety",
+        " unethical"
+      ],
+      "laser": [
+        " unsafe",
+        "unsafe",
+        " cybersecurity",
+        "\u5b89\u5168\u98ce\u9669",
+        " safety"
+      ]
+    },
+    "43": {
+      "cutting": [
+        " unsafe",
+        " recommendations",
+        "unsafe",
+        "Safety",
+        "Unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " recommendations",
+        " advice",
+        "unsafe"
+      ],
+      "laser": [
+        " unsafe",
+        "unsafe",
+        " safety",
+        "\u5b89\u5168",
+        " cybersecurity"
+      ]
+    },
+    "44": {
+      "cutting": [
+        " unsafe",
+        " recommendations",
+        "unsafe",
+        "Safety",
+        "Unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " advice",
+        " recommendations",
+        " guidance"
+      ],
+      "laser": [
+        " unsafe",
+        " safety",
+        "unsafe",
+        " cybersecurity",
+        " recommendations"
+      ]
+    },
+    "45": {
+      "cutting": [
+        " unsafe",
+        " recommendations",
+        " recommendation",
+        "unsafe",
+        "Unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " safety",
+        " advice",
+        " recommendations",
+        " illegal"
+      ],
+      "laser": [
+        " unsafe",
+        " safety",
+        "unsafe",
+        " cybersecurity",
+        " recommendations"
+      ]
+    },
+    "46": {
+      "cutting": [
+        " recommendations",
+        " unsafe",
+        "unsafe",
+        " prohibited",
+        "Unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " prohibited",
+        " advice",
+        " safety",
+        " recommendations"
+      ],
+      "laser": [
+        " unsafe",
+        "unsafe",
+        " cybersecurity",
+        " recommendations",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ]
+    },
+    "47": {
+      "cutting": [
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " recommendations",
+        " recommending",
+        "unsafe",
+        " unsafe"
+      ],
+      "drunk_driving": [
+        " unsafe",
+        " prohibited",
+        " advice",
+        " recommendations",
+        " illegal"
+      ],
+      "laser": [
+        " unsafe",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " recommendations",
+        "unsafe",
+        " safety"
+      ]
+    }
+  }
+}

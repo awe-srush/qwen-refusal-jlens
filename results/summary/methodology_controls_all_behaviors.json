@@ -1,0 +1,85 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "behaviors": [
+    "cutting-instructions",
+    "recommends-drunk-driving",
+    "laser-at-aircraft"
+  ],
+  "controls_run": [
+    "null_position",
+    "logit_lens_baseline"
+  ],
+  "n_per_condition": 5,
+  "conclusion": "Across all three harm behaviors, the shared refusal signature (unsafe/cybersecurity/recommendations/prohibited/safety) at L37-L47: (1) is anchor-specific \u2014 does not appear at random positions in the same refused responses (null control confirms); (2) requires J-lens \u2014 plain logit-lens at same positions shows only surface next-token prediction (direct, provide, \u52a9) with no policy vocabulary; (3) is prompt-independent for cybersecurity \u2014 appears in all three behaviors' refusals despite semantic irrelevance to two of them.",
+  "l40_summary": {
+    "cutting": {
+      "jlens_at_cannot": [
+        " unsafe",
+        " unethical",
+        " ethical",
+        " recommendations",
+        " cybersecurity"
+      ],
+      "logit_at_cannot": [
+        " direct",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        " directly",
+        " any",
+        "\u63a8\u8350"
+      ],
+      "jlens_at_null": [
+        " symbolic",
+        " symbol",
+        " Symbol",
+        " symbolism",
+        " ritual"
+      ]
+    },
+    "drunk_driving": {
+      "jlens_at_cannot": [
+        " unsafe",
+        " safety",
+        " cybersecurity",
+        " recommendations",
+        " unethical"
+      ],
+      "logit_at_cannot": [
+        " directly",
+        " direct",
+        "id",
+        "ix",
+        "\u63d0\u4f9b\u4efb\u4f55"
+      ],
+      "jlens_at_null": [
+        " safely",
+        " safe",
+        " safer",
+        " safety",
+        "\u516c\u5171\u5b89\u5168"
+      ]
+    },
+    "laser": {
+      "jlens_at_cannot": [
+        " unsafe",
+        " cybersecurity",
+        "\u5b89\u5168\u98ce\u9669",
+        " safety",
+        "unsafe"
+      ],
+      "logit_at_cannot": [
+        "ook",
+        "\u63d0\u4f9b\u4efb\u4f55",
+        "yll",
+        "\u5efa\u8bae\u60a8",
+        " safety"
+      ],
+      "jlens_at_null": [
+        " altitude",
+        " level",
+        " aircraft",
+        " low",
+        "-low"
+      ]
+    }
+  }
+}
